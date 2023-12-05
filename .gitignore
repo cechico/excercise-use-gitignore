@@ -6,4 +6,4 @@ node_modules/
 #Ignore all files ending in .env
 *.env
 
-/artifacts
+/artifacts/.
